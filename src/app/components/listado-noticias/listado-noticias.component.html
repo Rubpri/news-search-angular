@@ -1,0 +1,14 @@
+<div class="row row-cols-1 row-cols-md-2 g-4 mt-1 mb-3">
+    <div *ngFor="let noticia of listNoticias" class="col">
+      <div class="card">
+        <div class="card-body">
+          <span>{{ noticia.author }}</span>    
+          <hr>  
+          <span>{{ noticia.title }}</span>    
+          <br>
+          <br>
+          <a href="{{ noticia.url }}" target="_blank">Click para ir la noticia</a> 
+        </div>
+      </div>
+    </div>
+  </div>
