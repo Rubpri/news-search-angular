@@ -1,27 +1,31 @@
-# NewsApiAngular
+# App Búsqueda de Noticias
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
+Selecciona un país y una categoría para recibr noticias de diferentes medios a través de una API.
 
-## Development server
+## Stack Tecnológico
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
++ Bootstrap, JavaScript, TypeScript
++ Angular (18.0.5)
 
-## Code scaffolding
+## Enlaces
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ver en Youtube: <a href="https://www.youtube.com/watch?v=REdZjF_TMBE" target="_blank">https://www.youtube.com/watch?v=REdZjF_TMBE</a>
 
-## Build
+## Imágenes de la App
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Img1](./news1.png)
 
-## Running unit tests
+![Img2](./news2.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Img2](./news3.png)
 
-## Running end-to-end tests
+## Perfiles
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<a href="https://github.com/Rubpri" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-## Further help
+<a href="https://www.linkedin.com/in/ruben-prieto-serrano/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
